@@ -42,7 +42,7 @@ Membangun dan membandingkan performa beberapa model regresi untuk memprediksi ha
 
 ## 🛠 Library yang Digunakan
 
-`pandas` `numpy` `scikit-learn` `xgboost` seaborn` `matplotlib`
+`pandas` `numpy` `scikit-learn` `xgboost` 'seaborn` `matplotlib`
 
 ## 🚀 Cara Menjalankan
 - Upload dataset ke environment (Google Colab / lokal)
